@@ -14,3 +14,9 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+#conteiner{
+    display: flex;
+}
+.cartao{
+    margin: 1rem 1rem;
+}
